@@ -1,0 +1,2 @@
+This is a new file created by the userA for
+developing a new featureA
